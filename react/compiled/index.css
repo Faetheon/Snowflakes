@@ -1,0 +1,12 @@
+.snow-flake {
+  position: absolute;
+  color: white;
+}
+
+/* .snow-flake:after {
+  content: "\2744";
+} */
+
+body {
+  background-color: black;
+}
